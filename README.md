@@ -4,7 +4,7 @@ This is assignment 1 of programming for big data by Roman Farooq\
 Reg no. L1F20BSCS0338\
 Section: D1\
 Student of University of Central Punjab\
-Submitted to Sir SAEED IQBAL KHATTAK
+Submitted to Sir. [SAEED IQBAL KHATTAK](https://github.com/SaeedIqbal)
 ### Question 1
 Using the dataset (https://www.kaggle.com/raddar/nodules-in-chest-xrays-jsrt) file name is jsrt_metadata.csv:
 1. Find the total number of patients of each disease (diagnosis) and plot in histogram.
